@@ -1121,15 +1121,15 @@ Jaya Stick
 {/dialog}
 
 {dialog 280}
-{rgb:249,109,115}AP Voucher
+{rgb:249,109,115}AP Voucher 1
 {/dialog}
 
 {dialog 281}
-{rgb:249,109,115}Reserve
+{rgb:249,109,115}AP Voucher 2
 {/dialog}
 
 {dialog 282}
-{rgb:249,109,115}Reserve
+{rgb:249,109,115}AP Voucher 3
 {/dialog}
 
 {dialog 283}
