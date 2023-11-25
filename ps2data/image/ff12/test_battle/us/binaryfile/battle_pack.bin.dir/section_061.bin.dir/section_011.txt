@@ -1157,887 +1157,887 @@ Jaya Stick
 {/dialog}
 
 {dialog 289}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 290}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 291}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 292}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 293}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 294}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 295}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 296}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 297}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 298}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 299}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 300}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 301}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 302}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 303}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 304}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 305}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 306}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 307}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 308}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 309}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 310}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 311}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 312}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 313}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 314}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 315}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 316}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 317}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 318}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 319}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 320}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 321}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 322}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 323}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 324}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 325}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 326}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 327}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 328}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 329}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 330}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 331}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 332}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 333}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 334}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 335}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 336}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 337}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 338}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 339}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 340}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 341}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 342}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 343}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 344}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 345}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 346}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 347}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 348}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 349}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 350}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 351}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 352}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 353}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 354}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 355}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 356}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 357}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 358}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 359}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 360}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 361}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 362}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 363}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 364}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 365}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 366}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 367}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 368}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 369}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 370}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 371}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 372}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 373}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 374}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 375}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 376}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 377}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 378}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 379}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 380}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 381}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 382}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 383}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 384}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 385}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 386}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 387}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 388}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 389}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 390}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 391}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 392}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 393}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 394}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 395}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 396}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 397}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 398}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 399}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 400}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 401}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 402}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 403}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 404}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 405}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 406}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 407}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 408}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 409}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 410}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 411}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 412}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 413}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 414}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 415}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 416}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 417}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 418}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 419}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 420}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 421}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 422}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 423}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 424}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 425}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 426}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 427}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 428}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 429}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 430}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 431}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 432}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 433}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 434}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 435}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 436}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 437}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 438}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 439}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 440}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 441}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 442}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 443}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 444}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 445}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 446}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 447}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 448}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 449}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 450}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 451}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 452}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 453}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 454}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 455}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 456}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 457}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 458}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 459}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 460}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 461}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 462}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 463}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 464}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 465}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 466}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 467}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 468}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 469}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 470}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 471}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 472}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 473}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 474}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 475}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 476}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 477}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 478}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 479}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 480}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 481}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 482}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 483}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 484}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 485}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 486}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 487}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 488}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 489}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 490}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 491}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 492}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 493}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 494}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 495}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 496}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 497}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 498}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 499}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 500}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 501}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 502}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 503}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 504}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 505}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 506}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 507}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 508}
-{rgb:249,109,115}Reserve
-{/dialog}
-
-{dialog 509}
-{rgb:249,109,115}Reserve
+{rgb:249,109,115}Trial 001 Chest 1
+{/dialog}        
+                 
+{dialog 290}     
+{rgb:249,109,115}Trial 001 Chest 2
+{/dialog}        
+                 
+{dialog 291}     
+{rgb:249,109,115}Trial 002 Chest 1
+{/dialog}        
+                 
+{dialog 292}     
+{rgb:249,109,115}Trial 002 Chest 2
+{/dialog}        
+                 
+{dialog 293}     
+{rgb:249,109,115}Trial 003 Chest 1
+{/dialog}        
+                 
+{dialog 294}     
+{rgb:249,109,115}Trial 003 Chest 2
+{/dialog}        
+                 
+{dialog 295}     
+{rgb:249,109,115}Trial 004 Chest 1
+{/dialog}        
+                 
+{dialog 296}     
+{rgb:249,109,115}Trial 004 Chest 2
+{/dialog}        
+                 
+{dialog 297}     
+{rgb:249,109,115}Trial 005 Chest 1
+{/dialog}        
+                 
+{dialog 298}     
+{rgb:249,109,115}Trial 005 Chest 2
+{/dialog}        
+                 
+{dialog 299}     
+{rgb:249,109,115}Trial 006 Chest 1
+{/dialog}        
+                 
+{dialog 300}     
+{rgb:249,109,115}Trial 006 Chest 2
+{/dialog}        
+                 
+{dialog 301}     
+{rgb:249,109,115}Trial 007 Chest 1
+{/dialog}        
+                 
+{dialog 302}     
+{rgb:249,109,115}Trial 007 Chest 2
+{/dialog}        
+                 
+{dialog 303}     
+{rgb:249,109,115}Trial 008 Chest 1
+{/dialog}        
+                 
+{dialog 304}     
+{rgb:249,109,115}Trial 008 Chest 2
+{/dialog}        
+                 
+{dialog 305}     
+{rgb:249,109,115}Trial 009 Chest 1
+{/dialog}        
+                 
+{dialog 306}     
+{rgb:249,109,115}Trial 009 Chest 2
+{/dialog}        
+                 
+{dialog 307}     
+{rgb:249,109,115}Trial 010 Chest 1
+{/dialog}        
+                 
+{dialog 308}     
+{rgb:249,109,115}Trial 010 Chest 2
+{/dialog}        
+                 
+{dialog 309}     
+{rgb:249,109,115}Trial 011 Chest 1
+{/dialog}        
+                 
+{dialog 310}     
+{rgb:249,109,115}Trial 011 Chest 2
+{/dialog}        
+                 
+{dialog 311}     
+{rgb:249,109,115}Trial 012 Chest 1
+{/dialog}        
+                 
+{dialog 312}     
+{rgb:249,109,115}Trial 012 Chest 2
+{/dialog}        
+                 
+{dialog 313}     
+{rgb:249,109,115}Trial 013 Chest 1
+{/dialog}        
+                 
+{dialog 314}     
+{rgb:249,109,115}Trial 013 Chest 2
+{/dialog}        
+                 
+{dialog 315}     
+{rgb:249,109,115}Trial 014 Chest 1
+{/dialog}        
+                 
+{dialog 316}     
+{rgb:249,109,115}Trial 014 Chest 2
+{/dialog}        
+                 
+{dialog 317}     
+{rgb:249,109,115}Trial 015 Chest 1
+{/dialog}        
+                 
+{dialog 318}     
+{rgb:249,109,115}Trial 015 Chest 2
+{/dialog}        
+                 
+{dialog 319}     
+{rgb:249,109,115}Trial 016 Chest 1
+{/dialog}        
+                 
+{dialog 320}     
+{rgb:249,109,115}Trial 016 Chest 2
+{/dialog}        
+                 
+{dialog 321}     
+{rgb:249,109,115}Trial 017 Chest 1
+{/dialog}        
+                 
+{dialog 322}     
+{rgb:249,109,115}Trial 017 Chest 2
+{/dialog}        
+                 
+{dialog 323}     
+{rgb:249,109,115}Trial 018 Chest 1
+{/dialog}        
+                 
+{dialog 324}     
+{rgb:249,109,115}Trial 018 Chest 2
+{/dialog}        
+                 
+{dialog 325}     
+{rgb:249,109,115}Trial 019 Chest 1
+{/dialog}        
+                 
+{dialog 326}     
+{rgb:249,109,115}Trial 019 Chest 2
+{/dialog}        
+                 
+{dialog 327}     
+{rgb:249,109,115}Trial 020 Chest 1
+{/dialog}        
+                 
+{dialog 328}     
+{rgb:249,109,115}Trial 020 Chest 2
+{/dialog}        
+                 
+{dialog 329}     
+{rgb:249,109,115}Trial 021 Chest 1
+{/dialog}        
+                 
+{dialog 330}     
+{rgb:249,109,115}Trial 021 Chest 2
+{/dialog}        
+                 
+{dialog 331}     
+{rgb:249,109,115}Trial 022 Chest 1
+{/dialog}        
+                 
+{dialog 332}     
+{rgb:249,109,115}Trial 022 Chest 2
+{/dialog}        
+                 
+{dialog 333}     
+{rgb:249,109,115}Trial 023 Chest 1
+{/dialog}        
+                 
+{dialog 334}     
+{rgb:249,109,115}Trial 023 Chest 2
+{/dialog}        
+                 
+{dialog 335}     
+{rgb:249,109,115}Trial 024 Chest 1
+{/dialog}        
+                 
+{dialog 336}     
+{rgb:249,109,115}Trial 024 Chest 2
+{/dialog}        
+                 
+{dialog 337}     
+{rgb:249,109,115}Trial 025 Chest 1
+{/dialog}        
+                 
+{dialog 338}     
+{rgb:249,109,115}Trial 025 Chest 2
+{/dialog}        
+                 
+{dialog 339}     
+{rgb:249,109,115}Trial 026 Chest 1
+{/dialog}        
+                 
+{dialog 340}     
+{rgb:249,109,115}Trial 026 Chest 2
+{/dialog}        
+                 
+{dialog 341}     
+{rgb:249,109,115}Trial 027 Chest 1
+{/dialog}        
+                 
+{dialog 342}     
+{rgb:249,109,115}Trial 027 Chest 2
+{/dialog}        
+                 
+{dialog 343}     
+{rgb:249,109,115}Trial 028 Chest 1
+{/dialog}        
+                 
+{dialog 344}     
+{rgb:249,109,115}Trial 028 Chest 2
+{/dialog}        
+                 
+{dialog 345}     
+{rgb:249,109,115}Trial 029 Chest 1
+{/dialog}        
+                 
+{dialog 346}     
+{rgb:249,109,115}Trial 029 Chest 2
+{/dialog}        
+                 
+{dialog 347}     
+{rgb:249,109,115}Trial 030 Chest 1
+{/dialog}        
+                 
+{dialog 348}     
+{rgb:249,109,115}Trial 030 Chest 2
+{/dialog}        
+                 
+{dialog 349}     
+{rgb:249,109,115}Trial 030 Chest 3
+{/dialog}        
+                 
+{dialog 350}     
+{rgb:249,109,115}Trial 031 Chest 1
+{/dialog}        
+                 
+{dialog 351}     
+{rgb:249,109,115}Trial 031 Chest 2
+{/dialog}        
+                 
+{dialog 352}     
+{rgb:249,109,115}Trial 031 Chest 3
+{/dialog}        
+                 
+{dialog 353}     
+{rgb:249,109,115}Trial 031 Chest 4
+{/dialog}        
+                 
+{dialog 354}     
+{rgb:249,109,115}Trial 031 Chest 5
+{/dialog}        
+                 
+{dialog 355}     
+{rgb:249,109,115}Trial 032 Chest 1
+{/dialog}        
+                 
+{dialog 356}     
+{rgb:249,109,115}Trial 032 Chest 2
+{/dialog}        
+                 
+{dialog 357}     
+{rgb:249,109,115}Trial 032 Chest 3
+{/dialog}        
+                 
+{dialog 358}     
+{rgb:249,109,115}Trial 033 Chest 1
+{/dialog}        
+                 
+{dialog 359}     
+{rgb:249,109,115}Trial 033 Chest 2
+{/dialog}        
+                 
+{dialog 360}     
+{rgb:249,109,115}Trial 034 Chest 1
+{/dialog}        
+                 
+{dialog 361}     
+{rgb:249,109,115}Trial 034 Chest 2
+{/dialog}        
+                 
+{dialog 362}     
+{rgb:249,109,115}Trial 035 Chest 1
+{/dialog}        
+                 
+{dialog 363}     
+{rgb:249,109,115}Trial 035 Chest 2
+{/dialog}        
+                 
+{dialog 364}     
+{rgb:249,109,115}Trial 035 Chest 3
+{/dialog}        
+                 
+{dialog 365}     
+{rgb:249,109,115}Trial 035 Chest 4
+{/dialog}        
+                 
+{dialog 366}     
+{rgb:249,109,115}Trial 036 Chest 1
+{/dialog}        
+                 
+{dialog 367}     
+{rgb:249,109,115}Trial 036 Chest 2
+{/dialog}        
+                 
+{dialog 368}     
+{rgb:249,109,115}Trial 036 Chest 3
+{/dialog}        
+                 
+{dialog 369}     
+{rgb:249,109,115}Trial 037 Chest 1
+{/dialog}        
+                 
+{dialog 370}     
+{rgb:249,109,115}Trial 037 Chest 2
+{/dialog}        
+                 
+{dialog 371}     
+{rgb:249,109,115}Trial 038 Chest 1
+{/dialog}        
+                 
+{dialog 372}     
+{rgb:249,109,115}Trial 038 Chest 2
+{/dialog}        
+                 
+{dialog 373}     
+{rgb:249,109,115}Trial 039 Chest 1
+{/dialog}        
+                 
+{dialog 374}     
+{rgb:249,109,115}Trial 039 Chest 2
+{/dialog}        
+                 
+{dialog 375}     
+{rgb:249,109,115}Trial 040 Chest 1
+{/dialog}        
+                 
+{dialog 376}     
+{rgb:249,109,115}Trial 040 Chest 2
+{/dialog}        
+                 
+{dialog 377}     
+{rgb:249,109,115}Trial 041 Chest 1
+{/dialog}        
+                 
+{dialog 378}     
+{rgb:249,109,115}Trial 041 Chest 2
+{/dialog}        
+                 
+{dialog 379}     
+{rgb:249,109,115}Trial 042 Chest 1
+{/dialog}        
+                 
+{dialog 380}     
+{rgb:249,109,115}Trial 042 Chest 2
+{/dialog}        
+                 
+{dialog 381}     
+{rgb:249,109,115}Trial 043 Chest 1
+{/dialog}        
+                 
+{dialog 382}     
+{rgb:249,109,115}Trial 043 Chest 2
+{/dialog}        
+                 
+{dialog 383}     
+{rgb:249,109,115}Trial 044 Chest 1
+{/dialog}        
+                 
+{dialog 384}     
+{rgb:249,109,115}Trial 044 Chest 2
+{/dialog}        
+                 
+{dialog 385}     
+{rgb:249,109,115}Trial 045 Chest 1
+{/dialog}        
+                 
+{dialog 386}     
+{rgb:249,109,115}Trial 045 Chest 2
+{/dialog}        
+                 
+{dialog 387}     
+{rgb:249,109,115}Trial 046 Chest 1
+{/dialog}        
+                 
+{dialog 388}     
+{rgb:249,109,115}Trial 046 Chest 2
+{/dialog}        
+                 
+{dialog 389}     
+{rgb:249,109,115}Trial 047 Chest 1
+{/dialog}        
+                 
+{dialog 390}     
+{rgb:249,109,115}Trial 047 Chest 2
+{/dialog}        
+                 
+{dialog 391}     
+{rgb:249,109,115}Trial 048 Chest 1
+{/dialog}        
+                 
+{dialog 392}     
+{rgb:249,109,115}Trial 048 Chest 2
+{/dialog}        
+                 
+{dialog 393}     
+{rgb:249,109,115}Trial 049 Chest 1
+{/dialog}        
+                 
+{dialog 394}     
+{rgb:249,109,115}Trial 049 Chest 2
+{/dialog}        
+                 
+{dialog 395}     
+{rgb:249,109,115}Trial 050 Chest 1
+{/dialog}        
+                 
+{dialog 396}     
+{rgb:249,109,115}Trial 050 Chest 2
+{/dialog}        
+                 
+{dialog 397}     
+{rgb:249,109,115}Trial 051 Chest 1
+{/dialog}        
+                 
+{dialog 398}     
+{rgb:249,109,115}Trial 051 Chest 2
+{/dialog}        
+                 
+{dialog 399}     
+{rgb:249,109,115}Trial 052 Chest 1
+{/dialog}        
+                 
+{dialog 400}     
+{rgb:249,109,115}Trial 052 Chest 2
+{/dialog}        
+                 
+{dialog 401}     
+{rgb:249,109,115}Trial 053 Chest 1
+{/dialog}        
+                 
+{dialog 402}     
+{rgb:249,109,115}Trial 053 Chest 2
+{/dialog}        
+                 
+{dialog 403}     
+{rgb:249,109,115}Trial 054 Chest 1
+{/dialog}        
+                 
+{dialog 404}     
+{rgb:249,109,115}Trial 054 Chest 2
+{/dialog}        
+                 
+{dialog 405}     
+{rgb:249,109,115}Trial 055 Chest 1
+{/dialog}        
+                 
+{dialog 406}     
+{rgb:249,109,115}Trial 055 Chest 2
+{/dialog}        
+                 
+{dialog 407}     
+{rgb:249,109,115}Trial 056 Chest 1
+{/dialog}        
+                 
+{dialog 408}     
+{rgb:249,109,115}Trial 056 Chest 2
+{/dialog}        
+                 
+{dialog 409}     
+{rgb:249,109,115}Trial 057 Chest 1
+{/dialog}        
+                 
+{dialog 410}     
+{rgb:249,109,115}Trial 057 Chest 2
+{/dialog}        
+                 
+{dialog 411}     
+{rgb:249,109,115}Trial 058 Chest 1
+{/dialog}        
+                 
+{dialog 412}     
+{rgb:249,109,115}Trial 058 Chest 2
+{/dialog}        
+                 
+{dialog 413}     
+{rgb:249,109,115}Trial 059 Chest 1
+{/dialog}        
+                 
+{dialog 414}     
+{rgb:249,109,115}Trial 059 Chest 2
+{/dialog}        
+                 
+{dialog 415}     
+{rgb:249,109,115}Trial 060 Chest 1
+{/dialog}        
+                 
+{dialog 416}     
+{rgb:249,109,115}Trial 060 Chest 2
+{/dialog}        
+                 
+{dialog 417}     
+{rgb:249,109,115}Trial 061 Chest 1
+{/dialog}        
+                 
+{dialog 418}     
+{rgb:249,109,115}Trial 061 Chest 2
+{/dialog}        
+                 
+{dialog 419}     
+{rgb:249,109,115}Trial 062 Chest 1
+{/dialog}        
+                 
+{dialog 420}     
+{rgb:249,109,115}Trial 062 Chest 2
+{/dialog}        
+                 
+{dialog 421}     
+{rgb:249,109,115}Trial 062 Chest 3
+{/dialog}        
+                 
+{dialog 422}     
+{rgb:249,109,115}Trial 062 Chest 4
+{/dialog}        
+                 
+{dialog 423}     
+{rgb:249,109,115}Trial 063 Chest 1
+{/dialog}        
+                 
+{dialog 424}     
+{rgb:249,109,115}Trial 063 Chest 2
+{/dialog}        
+                 
+{dialog 425}     
+{rgb:249,109,115}Trial 064 Chest 1
+{/dialog}        
+                 
+{dialog 426}     
+{rgb:249,109,115}Trial 064 Chest 2
+{/dialog}        
+                 
+{dialog 427}     
+{rgb:249,109,115}Trial 065 Chest 1
+{/dialog}        
+                 
+{dialog 428}     
+{rgb:249,109,115}Trial 065 Chest 2
+{/dialog}        
+                 
+{dialog 429}     
+{rgb:249,109,115}Trial 066 Chest 1
+{/dialog}        
+                 
+{dialog 430}     
+{rgb:249,109,115}Trial 066 Chest 2
+{/dialog}        
+                 
+{dialog 431}     
+{rgb:249,109,115}Trial 067 Chest 1
+{/dialog}        
+                 
+{dialog 432}     
+{rgb:249,109,115}Trial 067 Chest 2
+{/dialog}        
+                 
+{dialog 433}     
+{rgb:249,109,115}Trial 068 Chest 1
+{/dialog}        
+                 
+{dialog 434}     
+{rgb:249,109,115}Trial 068 Chest 2
+{/dialog}        
+                 
+{dialog 435}     
+{rgb:249,109,115}Trial 069 Chest 1
+{/dialog}        
+                 
+{dialog 436}     
+{rgb:249,109,115}Trial 069 Chest 2
+{/dialog}        
+                 
+{dialog 437}     
+{rgb:249,109,115}Trial 070 Chest 1
+{/dialog}        
+                 
+{dialog 438}     
+{rgb:249,109,115}Trial 070 Chest 2
+{/dialog}        
+                 
+{dialog 439}     
+{rgb:249,109,115}Trial 071 Chest 1
+{/dialog}        
+                 
+{dialog 440}     
+{rgb:249,109,115}Trial 071 Chest 2
+{/dialog}        
+                 
+{dialog 441}     
+{rgb:249,109,115}Trial 072 Chest 1
+{/dialog}        
+                 
+{dialog 442}     
+{rgb:249,109,115}Trial 072 Chest 2
+{/dialog}        
+                 
+{dialog 443}     
+{rgb:249,109,115}Trial 073 Chest 1
+{/dialog}        
+                 
+{dialog 444}     
+{rgb:249,109,115}Trial 073 Chest 2
+{/dialog}        
+                 
+{dialog 445}     
+{rgb:249,109,115}Trial 074 Chest 1
+{/dialog}        
+                 
+{dialog 446}     
+{rgb:249,109,115}Trial 074 Chest 2
+{/dialog}        
+                 
+{dialog 447}     
+{rgb:249,109,115}Trial 075 Chest 1
+{/dialog}        
+                 
+{dialog 448}     
+{rgb:249,109,115}Trial 075 Chest 2
+{/dialog}        
+                 
+{dialog 449}     
+{rgb:249,109,115}Trial 076 Chest 1
+{/dialog}        
+                 
+{dialog 450}     
+{rgb:249,109,115}Trial 076 Chest 2
+{/dialog}        
+                 
+{dialog 451}     
+{rgb:249,109,115}Trial 077 Chest 1
+{/dialog}        
+                 
+{dialog 452}     
+{rgb:249,109,115}Trial 077 Chest 2
+{/dialog}        
+                 
+{dialog 453}     
+{rgb:249,109,115}Trial 078 Chest 1
+{/dialog}        
+                 
+{dialog 454}     
+{rgb:249,109,115}Trial 078 Chest 2
+{/dialog}        
+                 
+{dialog 455}     
+{rgb:249,109,115}Trial 079 Chest 1
+{/dialog}        
+                 
+{dialog 456}     
+{rgb:249,109,115}Trial 079 Chest 2
+{/dialog}        
+                 
+{dialog 457}     
+{rgb:249,109,115}Trial 080 Chest 1
+{/dialog}        
+                 
+{dialog 458}     
+{rgb:249,109,115}Trial 080 Chest 2
+{/dialog}        
+                 
+{dialog 459}     
+{rgb:249,109,115}Trial 081 Chest 1
+{/dialog}        
+                 
+{dialog 460}     
+{rgb:249,109,115}Trial 081 Chest 2
+{/dialog}        
+                 
+{dialog 461}     
+{rgb:249,109,115}Trial 082 Chest 1
+{/dialog}        
+                 
+{dialog 462}     
+{rgb:249,109,115}Trial 082 Chest 2
+{/dialog}        
+                 
+{dialog 463}     
+{rgb:249,109,115}Trial 082 Chest 3
+{/dialog}        
+                 
+{dialog 464}     
+{rgb:249,109,115}Trial 083 Chest 1
+{/dialog}        
+                 
+{dialog 465}     
+{rgb:249,109,115}Trial 083 Chest 2
+{/dialog}        
+                 
+{dialog 466}     
+{rgb:249,109,115}Trial 083 Chest 3
+{/dialog}        
+                 
+{dialog 467}     
+{rgb:249,109,115}Trial 084 Chest 1
+{/dialog}        
+                 
+{dialog 468}     
+{rgb:249,109,115}Trial 084 Chest 2
+{/dialog}        
+                 
+{dialog 469}     
+{rgb:249,109,115}Trial 084 Chest 3
+{/dialog}        
+                 
+{dialog 470}     
+{rgb:249,109,115}Trial 085 Chest 1
+{/dialog}        
+                 
+{dialog 471}     
+{rgb:249,109,115}Trial 085 Chest 2
+{/dialog}        
+                 
+{dialog 472}     
+{rgb:249,109,115}Trial 085 Chest 3
+{/dialog}        
+                 
+{dialog 473}     
+{rgb:249,109,115}Trial 086 Chest 1
+{/dialog}        
+                 
+{dialog 474}     
+{rgb:249,109,115}Trial 086 Chest 2
+{/dialog}        
+                 
+{dialog 475}     
+{rgb:249,109,115}Trial 086 Chest 3
+{/dialog}        
+                 
+{dialog 476}     
+{rgb:249,109,115}Trial 087 Chest 1
+{/dialog}        
+                 
+{dialog 477}     
+{rgb:249,109,115}Trial 087 Chest 2
+{/dialog}        
+                 
+{dialog 478}     
+{rgb:249,109,115}Trial 087 Chest 3
+{/dialog}        
+                 
+{dialog 479}     
+{rgb:249,109,115}Trial 087 Chest 4
+{/dialog}        
+                 
+{dialog 480}     
+{rgb:249,109,115}Trial 088 Chest 1
+{/dialog}        
+                 
+{dialog 481}     
+{rgb:249,109,115}Trial 088 Chest 2
+{/dialog}        
+                 
+{dialog 482}     
+{rgb:249,109,115}Trial 088 Chest 3
+{/dialog}        
+                 
+{dialog 483}     
+{rgb:249,109,115}Trial 089 Chest 1
+{/dialog}        
+                 
+{dialog 484}     
+{rgb:249,109,115}Trial 089 Chest 2
+{/dialog}        
+                 
+{dialog 485}     
+{rgb:249,109,115}Trial 090 Chest 1
+{/dialog}        
+                 
+{dialog 486}     
+{rgb:249,109,115}Trial 090 Chest 2
+{/dialog}        
+                 
+{dialog 487}     
+{rgb:249,109,115}Trial 091 Chest 1
+{/dialog}        
+                 
+{dialog 488}     
+{rgb:249,109,115}Trial 091 Chest 2
+{/dialog}        
+                 
+{dialog 489}     
+{rgb:249,109,115}Trial 091 Chest 3
+{/dialog}        
+                 
+{dialog 490}     
+{rgb:249,109,115}Trial 091 Chest 4
+{/dialog}        
+                 
+{dialog 491}     
+{rgb:249,109,115}Trial 092 Chest 1
+{/dialog}        
+                 
+{dialog 492}     
+{rgb:249,109,115}Trial 092 Chest 2
+{/dialog}        
+                 
+{dialog 493}     
+{rgb:249,109,115}Trial 092 Chest 3
+{/dialog}        
+                 
+{dialog 494}     
+{rgb:249,109,115}Trial 093 Chest 1
+{/dialog}        
+                 
+{dialog 495}     
+{rgb:249,109,115}Trial 093 Chest 2
+{/dialog}        
+                 
+{dialog 496}     
+{rgb:249,109,115}Trial 094 Chest 1
+{/dialog}        
+                 
+{dialog 497}     
+{rgb:249,109,115}Trial 094 Chest 2
+{/dialog}        
+                 
+{dialog 498}     
+{rgb:249,109,115}Trial 094 Chest 3
+{/dialog}        
+                 
+{dialog 499}     
+{rgb:249,109,115}Trial 095 Chest 1
+{/dialog}        
+                 
+{dialog 500}     
+{rgb:249,109,115}Trial 096 Chest 1
+{/dialog}        
+                 
+{dialog 501}     
+{rgb:249,109,115}Trial 096 Chest 2
+{/dialog}        
+                 
+{dialog 502}     
+{rgb:249,109,115}Trial 097 Chest 1
+{/dialog}        
+                 
+{dialog 503}     
+{rgb:249,109,115}Trial 097 Chest 2
+{/dialog}        
+                 
+{dialog 504}     
+{rgb:249,109,115}Trial 097 Chest 3
+{/dialog}        
+                 
+{dialog 505}     
+{rgb:249,109,115}Trial 097 Chest 4
+{/dialog}        
+                 
+{dialog 506}     
+{rgb:249,109,115}Trial 099 Chest 1
+{/dialog}        
+                 
+{dialog 507}     
+{rgb:249,109,115}Trial 100 Chest 1
+{/dialog}        
+                 
+{dialog 508}     
+{rgb:249,109,115}Trial 100 Chest 2
+{/dialog}        
+                 
+{dialog 509}     
+{rgb:249,109,115}Trial 100 Chest 3
 {/dialog}
 
 {dialog 510}
