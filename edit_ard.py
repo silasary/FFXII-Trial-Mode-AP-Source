@@ -28,7 +28,7 @@ for file in files:
     data = json.load(f)
     for key in data["Stats"].keys():
         data["Stats"][key]["Experience"] = int(data["Stats"][key]["Max HP"]*5)
-        data["Stats"][key]["License Points"] = int(data["Stats"][key]["License Points"]*5)
+        data["Stats"][key]["License Points"] = int(data["Stats"][key]["License Points"]*2)
     f.seek(0)
     json.dump(data, f, indent = 2)
     f.truncate()
