@@ -288,13 +288,35 @@ function add_item(arg1,arg2)
     memory.execute("test_code")
 end
 
+function define_heal_all()
+    healArgMem = memory.allocExe(0x0100)
+    memory.registerSymbol("heal_args", argMem)
+    assembly = [[
+heal_code:
+  push rbx
+  sub rsp,0x20
+  lea rbx,[%test_args%]
+
+  mov edx,[rbx]
+  call 0x0030F4B0
+
+  add rsp,0x20
+  pop rbx
+  ret
+]]
+    memory.assemble(assembly, {"heal_code"})
+end
+
+function heal_all()
+    argBase = memory.getSymbol("heal_args")
+    memory.u32[argBase] = 15
+    memory.execute("heal_code")
+end
+
 function receive_items()
     ap_voucher_1_qty = memory.u8[ap_voucher_qty_address[1]]
     ap_voucher_2_qty = memory.u8[ap_voucher_qty_address[2]]
     ap_voucher_3_qty = memory.u8[ap_voucher_qty_address[3]]
-    print("AP Voucher 1 QTY: " .. tostring(ap_voucher_1_qty))
-    print("AP Voucher 2 QTY: " .. tostring(ap_voucher_2_qty))
-    print("AP Voucher 3 QTY: " .. tostring(ap_voucher_3_qty))
     check_num = ap_voucher_1_qty + ap_voucher_2_qty + ap_voucher_3_qty + 1
     while file_exists(client_communication_path .. "AP_" .. tostring(check_num) .. ".item") do
         file = io.open(client_communication_path .. "AP_" .. tostring(check_num) .. ".item", "r")
@@ -333,6 +355,19 @@ function send_items()
     end
 end
 
+function check_keys()
+    if input.getKeyPressed(input.key.KEY_F11) then --Jump to save/store
+        if (memory.s8[0x215F1AE] ~= 0) then
+            call.mapJump(53, 0, 2)
+        end
+    end
+    if input.getKeyPressed(input.key.KEY_F1) then --Jump to level 1
+        if (memory.s8[0x215F1AE] ~= 0) then
+            call.mapJump(1155, 0, 2)
+        end
+    end
+end
+
 
 --INITIALIZATIONS
 client_communication_path = os.getenv('LOCALAPPDATA') .. "\\FFXIITM\\"
@@ -340,13 +375,27 @@ ap_voucher_item_id = {8472, 8473, 8474}
 ap_voucher_qty_address = {0x021B764C, 0x021B764E, 0x021B7650}
 chest_item_id_address = 0x021B765E
 chest_item_id_base = 8481
+lightworks_story_progress_address = 0x02164E41
 create_client_communcation_path(client_communication_path)
 define_add_item()
+define_heal_all()
 
 function main_loop()
+    memory.u8[0x02164E41] = 0
     receive_items()
     send_items()
-    event.executeAfterMs(10000, main_loop)
+    check_keys()
+    event.executeAfterMs(5000, main_loop)
 end
 
-event.registerEventAsync("onSaveLoad", main_loop)
+
+
+print("FFXIV Trial Mode AP v0.0.1")
+--for key,value in pairs(call) do
+--    print("found member " .. key);
+--end
+
+
+
+event.registerEventAsync("onInitDone", main_loop)
+event.registerEventAsync("onMapJump", heal_all)
