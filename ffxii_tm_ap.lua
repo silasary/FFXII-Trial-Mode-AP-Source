@@ -309,7 +309,7 @@ end
 
 function heal_all()
     argBase = memory.getSymbol("heal_args")
-    memory.u32[argBase] = 15
+    memory.u32[argBase] = 29
     memory.execute("heal_code")
 end
 
