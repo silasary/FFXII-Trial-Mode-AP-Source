@@ -220,7 +220,8 @@ function define_location_ids()
                     450991,
                     451001,
                     451002,
-                    451003}
+                    451003,
+                    451004}
     return location_ids
 end
 
@@ -313,28 +314,32 @@ function heal_all()
     memory.execute("heal_code")
 end
 
+function get_u8(byte_table, index)
+    index = (index*2) - 1
+    return (byte_table[index] + (256*byte_table[index+1]))
+end
+
 function receive_items()
-    ap_voucher_1_qty = memory.u8[ap_voucher_qty_address[1]]
-    ap_voucher_2_qty = memory.u8[ap_voucher_qty_address[2]]
-    ap_voucher_3_qty = memory.u8[ap_voucher_qty_address[3]]
-    check_num = ap_voucher_1_qty + ap_voucher_2_qty + ap_voucher_3_qty + 1
+    byte_array = memory.readArray(ap_voucher_qty_address, (3*2))
+    ap_voucher_qty = {get_u8(byte_array, 1), get_u8(byte_array, 2), get_u8(byte_array, 3)}
+    check_num = ap_voucher_qty[1] + ap_voucher_qty[2] + ap_voucher_qty[3] + 1
     while file_exists(client_communication_path .. "AP_" .. tostring(check_num) .. ".item") do
         file = io.open(client_communication_path .. "AP_" .. tostring(check_num) .. ".item", "r")
         io.input(file)
         received_item_id = tonumber(io.read())
         io.close(file)
         received_item_id = received_item_id % 4400000
-        if ap_voucher_1_qty < 99 then
-            add_item(ap_voucher_item_id[1],1)
-            ap_voucher_1_qty = ap_voucher_1_qty + 1
+        if ap_voucher_qty[1] < 99 then
+            add_item(ap_voucher_item_id,1)
+             ap_voucher_qty[1] = ap_voucher_qty[1] + 1
             check_num = check_num + 1
-        elseif ap_voucher_1_qty >= 99 and ap_voucher_2_qty < 99 then
-            add_item(ap_voucher_item_id[2],1)
-            ap_voucher_2_qty = ap_voucher_2_qty + 1
+        elseif ap_voucher_qty[1] >= 99 and ap_voucher_qty[2] < 99 then
+            add_item(ap_voucher_item_id+1,1)
+            ap_voucher_qty[2] = ap_voucher_qty[2] + 1
             check_num = check_num + 1
         else
-            add_item(ap_voucher_item_id[3],1)
-            ap_voucher_3_qty = ap_voucher_3_qty + 1
+            add_item(ap_voucher_item_id+2,1)
+            ap_voucher_qty[3] = ap_voucher_qty[3] + 1
             check_num = check_num + 1
         end
         add_item(received_item_id,1)
@@ -342,14 +347,25 @@ function receive_items()
 end
 
 function send_items()
-    i = 0
-    while i < #location_ids do
-        if memory.u8[chest_item_id_address + (i*2)] > 0 then
-            add_item(chest_item_id_base + i,-1)
-            file = io.open(client_communication_path .. "send" .. tostring(location_ids[i + 1]), "w")
-            io.output(file)
-            io.write("")
-            io.close(file)
+    i = 1
+    byte_array = memory.readArray(chest_item_id_address, (#location_ids*2))
+    while i <= #location_ids do
+        if get_u8(byte_array, i) > 0 then
+            if i < #location_ids then
+                if not file_exists(client_communication_path .. "send" .. tostring(location_ids[i])) then
+                    file = io.open(client_communication_path .. "send" .. tostring(location_ids[i]), "w")
+                    io.output(file)
+                    io.write("")
+                    io.close(file)
+                end
+            else
+                if not file_exists(client_communication_path .. "victory") then
+                    file = io.open(client_communication_path .. "victory", "w")
+                    io.output(file)
+                    io.write("")
+                    io.close(file)
+                end
+            end
         end
         i = i + 1
     end
@@ -371,8 +387,8 @@ end
 
 --INITIALIZATIONS
 client_communication_path = os.getenv('LOCALAPPDATA') .. "\\FFXIITM\\"
-ap_voucher_item_id = {8472, 8473, 8474}
-ap_voucher_qty_address = {0x021B764C, 0x021B764E, 0x021B7650}
+ap_voucher_item_id = 8472
+ap_voucher_qty_address = 0x021B764C
 chest_item_id_address = 0x021B765E
 chest_item_id_base = 8481
 lightworks_story_progress_address = 0x02164E41
@@ -381,21 +397,28 @@ define_add_item()
 define_heal_all()
 
 function main_loop()
-    memory.u8[0x02164E41] = 0
+    memory.u8[lightworks_story_progress_address] = 0
     receive_items()
     send_items()
     check_keys()
     event.executeAfterMs(5000, main_loop)
 end
 
-
+function debug()
+    x = memory.readArray(ap_voucher_qty_address, 6)
+    for k,v in pairs(x) do
+        print("Key: " .. tostring(k))
+        print("Value: " .. tostring(v))
+    end
+    print("APV1 QTY: " .. tostring(x[2]*256 + x[1]))
+    print("APV2 QTY: " .. tostring(x[4]*256 + x[3]))
+    print("APV3 QTY: " .. tostring(x[6]*256 + x[5]))
+    check_keys()
+    event.executeAfterMs(5000, debug)
+end
 
 print("FFXIV Trial Mode AP v0.0.1")
---for key,value in pairs(call) do
---    print("found member " .. key);
---end
 
-
-
+--event.registerEventAsync("onInitDone", debug)
 event.registerEventAsync("onInitDone", main_loop)
 event.registerEventAsync("onMapJump", heal_all)
