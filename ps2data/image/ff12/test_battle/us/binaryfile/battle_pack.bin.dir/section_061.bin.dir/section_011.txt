@@ -2041,7 +2041,7 @@ Jaya Stick
 {/dialog}
 
 {dialog 510}
-{rgb:249,109,115}Reserve
+{rgb:249,109,115}Victory
 {/dialog}
 
 {dialog 511}
