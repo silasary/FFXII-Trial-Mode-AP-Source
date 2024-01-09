@@ -349,9 +349,9 @@ end
 function send_items()
     i = 1
     byte_array = memory.readArray(chest_item_id_address, (#location_ids*2))
-    while i <= #location_ids do
+    while i <= #location_ids+1 do
         if get_u8(byte_array, i) > 0 then
-            if i < #location_ids then
+            if i <= #location_ids then
                 if not file_exists(client_communication_path .. "send" .. tostring(location_ids[i])) then
                     file = io.open(client_communication_path .. "send" .. tostring(location_ids[i]), "w")
                     io.output(file)
