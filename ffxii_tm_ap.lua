@@ -348,7 +348,7 @@ end
 
 function send_items()
     i = 1
-    byte_array = memory.readArray(chest_item_id_address, (#location_ids*2))
+    byte_array = memory.readArray(chest_item_id_address, ((#location_ids+1)*2))
     while i <= #location_ids+1 do
         if get_u8(byte_array, i) > 0 then
             if i <= #location_ids then
@@ -358,6 +358,13 @@ function send_items()
                     io.write("")
                     io.close(file)
                 end
+                if not file_exists(client_communication_path .. "send" .. tostring(location_ids[i] + 5)) then
+                    file = io.open(client_communication_path .. "send" .. tostring(location_ids[i] + 5), "w")
+                    io.output(file)
+                    io.write("")
+                    io.close(file)
+                end
+
             else
                 if not file_exists(client_communication_path .. "victory") then
                     file = io.open(client_communication_path .. "victory", "w")
