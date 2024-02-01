@@ -308,6 +308,15 @@ heal_code:
     memory.assemble(assembly, {"heal_code"})
 end
 
+function onMapJump(mapNumber, mapEntry)
+    heal_all()
+
+    file = io.open(client_communication_path .. "current_map", "w")
+    io.output(file)
+    io.write(tostring(mapNumber) .. "\n" .. tostring(mapEntry))
+    io.close(file)
+end
+
 function heal_all()
     argBase = memory.getSymbol("heal_args")
     memory.u32[argBase] = 29
@@ -399,6 +408,7 @@ ap_voucher_qty_address = 0x021B764C
 chest_item_id_address = 0x021B765E
 chest_item_id_base = 8481
 lightworks_story_progress_address = 0x02164E41
+current_map_address = 0x20441F0
 create_client_communcation_path(client_communication_path)
 define_add_item()
 define_heal_all()
@@ -426,6 +436,6 @@ end
 
 print("FFXIV Trial Mode AP v0.0.1")
 
---event.registerEventAsync("onInitDone", debug)
+-- event.registerEventAsync("onInitDone", debug)
 event.registerEventAsync("onInitDone", main_loop)
-event.registerEventAsync("onMapJump", heal_all)
+event.registerEventAsync("onMapJump", onMapJump)
